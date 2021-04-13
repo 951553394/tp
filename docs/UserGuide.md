@@ -212,7 +212,7 @@ Expected Output:
 When you want to delete an item in the system, the `items delete` feature allows you to
 achieve this easily.
 
-Steps to delete an item in easyLog
+Steps to delete an item in easyLog:
 
 1. (Optional) Input `items list` command to check the item index to be deleted.
 2. Input `items delete <space> <item_index>` for the item to be removed from the item list.
